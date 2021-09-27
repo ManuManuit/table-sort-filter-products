@@ -1,0 +1,12 @@
+h2{
+    margin-top: 3rem;
+    background: #0069ae;
+    color: white;
+    padding: 30px;
+    font-weight: 100;
+}
+
+p{
+    text-align: left;
+    font-weight: 200;
+}

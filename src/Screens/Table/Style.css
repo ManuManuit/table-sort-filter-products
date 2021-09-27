@@ -1,0 +1,14 @@
+.body{
+    height: 90vh;
+}
+
+table{
+    margin-top: 20px;
+    text-align: left;
+}
+
+.table th{
+    background-color: #333940;
+    cursor: pointer;
+}
+
